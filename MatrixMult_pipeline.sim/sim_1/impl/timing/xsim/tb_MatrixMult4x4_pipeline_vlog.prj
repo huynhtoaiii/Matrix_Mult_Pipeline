@@ -1,0 +1,7 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../../../Vivado/2025.1/Vivado/data/rsb/busdef" \
+"tb_MatrixMult4x4_pipeline_time_impl.v" \
+"../../../../../MatrixMult_pipeline.srcs/sim_1/new/tb_MatrixMult4x4_pipeline.v" \
+
+# Do not sort compile order
+nosort

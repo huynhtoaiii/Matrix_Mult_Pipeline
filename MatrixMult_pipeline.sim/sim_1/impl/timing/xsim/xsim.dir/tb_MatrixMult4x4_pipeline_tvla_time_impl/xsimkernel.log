@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_MatrixMult4x4_pipeline_tvla_time_impl/xsimk.exe -simmode gui -wdb tb_MatrixMult4x4_pipeline_tvla_time_impl.wdb -simrunnum 0 -socket 63962
+Design successfully loaded
+Design Loading Memory Usage: 113016 KB (Peak: 113016 KB)
+Design Loading CPU Usage: 31 ms
+Simulation completed
+Simulation Memory Usage: 232816 KB (Peak: 232816 KB)
+Simulation CPU Usage: 38546 ms

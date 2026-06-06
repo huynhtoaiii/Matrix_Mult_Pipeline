@@ -1,0 +1,21 @@
+Time resolution is 1 ps
+----------------------------------------
+BAT DAU TINH TOAN PIPELINE MA TRAN 4x4...
+----------------------------------------
+HOAN THANH (SAU 4 CHU KY)! KET QUA MA TRAN C:
+[    2    4    6    8 ]
+[   10   12   14   16 ]
+[   18   20   22   24 ]
+[   26   28   30   32 ]
+----------------------------------------
+$finish called at time : 265362 ps : File "D:/SoCLyThuyet/MatrixMult_pipeline/MatrixMult_pipeline.srcs/sim_1/new/tb_MatrixMult4x4_pipeline.v" Line 95
+----------------------------------------
+BAT DAU TINH TOAN PIPELINE MA TRAN 4x4...
+----------------------------------------
+HOAN THANH (SAU 4 CHU KY)! KET QUA MA TRAN C:
+[    2    4    6    8 ]
+[   10   12   14   16 ]
+[   18   20   22   24 ]
+[   26   28   30   32 ]
+----------------------------------------
+$finish called at time : 265362 ps : File "D:/SoCLyThuyet/MatrixMult_pipeline/MatrixMult_pipeline.srcs/sim_1/new/tb_MatrixMult4x4_pipeline.v" Line 95
